@@ -128,11 +128,11 @@ footer{
 .service-card p{
      line-height: 1.6;
 }
-@media (max-width: 1024px){
+@media (max-width: 600px){
    nav{
      flex-direction: column;
      align-item: center;
-     gap: 15px;
+     gap: 35px;
    }
    nav ul{
       flex-direction: column;
@@ -140,11 +140,11 @@ footer{
       gap: 10px;
    }
    .card{
-       width: 90%;
-       margin: 20px auto;
+       width: 100%;
+       margin: 50px auto;
    }
    .about{
-       padding: 30px  15;
+       padding: 60px  30;
    }
    .about-content{
        width: 100%;
