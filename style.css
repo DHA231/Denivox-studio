@@ -128,7 +128,7 @@ footer{
 .service-card p{
      line-height: 1.6;
 }
-@media (max-width: 600px){
+@media (max-width: 1000px){
    nav{
      flex-direction: column;
      align-item: center;
