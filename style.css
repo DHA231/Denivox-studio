@@ -128,7 +128,7 @@ footer{
 .service-card p{
      line-height: 1.6;
 }
-@media (max-width: 1000px){
+@media (max-width: 600px){
    nav{
      flex-direction: column;
      align-item: center;
@@ -288,4 +288,32 @@ section{
      height: auto;
      display: block;
      object-fit: cover;
+}
+@media (max-width: 600px) {
+     body{
+       font-size: 16px;
+     }
+     h1{
+       font-size: 32px;
+     }
+     h2{
+       font-size: 26px;
+     }
+     h3{
+       font-size: 21px;
+     }
+     p{
+       font-size: 17px;
+       line-height: 1.6px;
+     }
+     .card{
+        padding: 20px;
+     }
+     .card p{
+        font-size: 16px;
+     }
+     button{
+        font-size: 16px;
+        padding: 12px 20px;
+     }
 }
