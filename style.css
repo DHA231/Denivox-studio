@@ -248,8 +248,8 @@ body{
          flex-wrap: wrap;
     }
    .card{
-        width: 100%;
-        max-width: 100%;
+        width: 80%;
+        max-width: 80%;
         padding: 30px  15px;
         text-align: center;
     }
@@ -270,7 +270,7 @@ body{
         padding-right: 15px;
    }
    img{
-        max-width: 100%;
+        max-width: 80%;
         height: auto;
    }
 }
