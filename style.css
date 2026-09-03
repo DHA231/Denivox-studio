@@ -209,6 +209,11 @@ section{
     max-width: 1200px;
     margin: auto;
 }
+.denivox-image{
+       width: 100%;
+       border-radius: 15px;
+       margin: 50px auto;
+       mid-width: 100%;
 .website-image{
         width: 100%
         max-width: 1000px;
